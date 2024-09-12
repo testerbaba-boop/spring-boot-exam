@@ -17,4 +17,16 @@ class ExamServiceImplTest {
     @Test
     void getExamQuestionType() {
     }
+
+    @Test
+    void create() {
+    }
+
+    @Test
+    void update() {
+    }
+
+    @Test
+    void getExamDetail() {
+    }
 }
